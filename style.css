@@ -1,0 +1,80 @@
+/*Header*/
+
+.header-container{
+    background-color: powderblue;
+}
+
+
+.logoempresa{
+    height: 10%;
+    width: 10%;
+}
+
+.acceso{
+    text-align: right;
+    
+}
+
+.navegable{
+    text-align: right;
+    
+}
+
+li {
+    list-style-type: none;
+}
+
+/*fin header*/
+
+/*secciones main*/
+
+.noticias{
+    margin-left: 2%;
+    padding-left: 2%;
+}
+
+.oferta{
+    margin-left: 2%;
+    padding-left: 2%;
+}
+/* fin main */
+
+
+/* footer */
+
+.rrss {
+    text-align: right;
+}
+
+/*Fin footer*/
+
+/* inicio vales */
+
+/*recall inicio*/
+
+.market-out{
+    margin-left: 2%;
+    padding-left: 2%;
+}
+
+.mout{
+    display: flex;
+    margin: 2%;
+    align-self: self-end;
+}
+
+/*recall fin */
+
+/*Contacto inicio*/
+
+/*img contacto*/
+
+.contimagen{
+    width: 99%;
+    height: 120px;
+}
+
+.msjenviar{
+    background-color: powderblue;
+}
+
